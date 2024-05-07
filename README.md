@@ -36,7 +36,7 @@ Please ensure that your code follows best practices and is well-documented. If y
 
 ## Acknowledgments
 
-This project is inspired by the love for classic games and the desire to learn and practice programming skills. Special thanks to the open-source community for providing valuable resources and inspiration.
+This project is inspired by the love for classic games and the desire to learn and practice programming skills. Special thanks to geeks for geeks fot the ideas. You can follow the link https://www.geeksforgeeks.org/c-projects/
 
 ## Contact
 
