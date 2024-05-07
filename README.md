@@ -40,6 +40,6 @@ This project is inspired by the love for classic games and the desire to learn a
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at jigmetenzinchogyel@gmail.com.
+If you have any questions or suggestions, feel free to reach out to me at jigmetenzinchogyel@gmail.com
 
 Happy coding and gaming!
